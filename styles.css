@@ -152,7 +152,6 @@ li:hover {
     to { opacity: 1; transform: translateX(0); }
 }
 
-/* Efecto de salida (opcional, requiere JS para aplicarse antes de eliminar) */
 .removing {
     animation: slideOut 0.3s ease-in forwards;
 }
